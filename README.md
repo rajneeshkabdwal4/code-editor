@@ -2,6 +2,9 @@
 
 A **Realtime Collaborative Code Editor** built with **Express**, **Socket.IO**, and **React**. Multiple users can join a room, write code together, and see changes in **real-time**. The code can be executed, and the output is displayed to all users in the room.  
 
+🚀 **Live Demo**: [Collaborative Code Editor](http://ec2-3-110-183-129.ap-south-1.compute.amazonaws.com:5000/)
+
+
 ## **Features**  
 ✅ Real-time collaborative coding with multiple users  
 ✅ Code execution with shared output  
@@ -92,7 +95,6 @@ npm run dev
 💾 **Version Control**: Integrate Git-based version control for tracking changes.  
 
 ---
-
 ## **License**  
 
 This project is licensed under the **ISC License**.  
